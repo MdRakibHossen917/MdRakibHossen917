@@ -3,12 +3,12 @@
   <img src="https://i.ibb.co/dsc276k9/Whats-App-Image-2025-06-25-at-00-47-12-d8547c17.jpg" alt="Banner  width="100%" style="rounded" "/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Rakib Hossen</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast | CSE Graduate</h3>
+<h1 align="center">Hi, I'm Md Rakib Hossen</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | CSE Graduate</h3>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 🎓 I'm a graduate in Computer Science & Engineering and a passionate full stack web developer from Bangladesh.  
 ⚡ I love building secure, scalable, and user-friendly web applications using modern web technologies.  
@@ -47,6 +47,10 @@
   <a href="https://facebook.com/your-link" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://github.com/MdRakibHossen917" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 
 ---
 
