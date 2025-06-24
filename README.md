@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/dsc276k9/Whats-App-Image-2025-06-25-at-00-47-12-d8547c17.jpg" alt="Banner"/>
+  <img src="https://i.ibb.co/dsc276k9/Whats-App-Image-2025-06-25-at-00-47-12-d8547c17.jpg" alt="Banner  width="100%" style="rounded" "/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Rakib Hossen</h1>
