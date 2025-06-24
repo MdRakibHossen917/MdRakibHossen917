@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Lz61KWHq/programmer-with-3d-computer-yellow-code-124008-63.jpg">
+  <img className="w-100" src="https://i.ibb.co/Lz61KWHq/programmer-with-3d-computer-yellow-code-124008-63.jpg">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Rakib Hossen</h1>
