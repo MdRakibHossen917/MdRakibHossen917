@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/MdRakibHossen917/MdRakibHossen917/blob/main/git.jpeg?raw=true" 
        alt="Banner" 
-       style="width: 1280px; height: 300px; object-fit: cover; border-radius: 8px;" />
+       style="width: 1280px; height: 180px; object-fit: cover; border-radius: 8px;" />
 </p>
 
 
