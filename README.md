@@ -1,18 +1,17 @@
 <!-- Banner -->
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const rakib = {
+  pronouns: "he" | "him",
+  code: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
+  tools: ["Firebase", "React Router", "DaisyUI", "SweetAlert2", "Axios", "JWT", "Framer Motion"],
+  architecture: ["REST API", "JWT-based authentication", "Component-based architecture", "MVC pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+    learner: "Programming Hero",
+    contributor: "GitHub Open Source",
+    developer: "GoJoy | CareerCode | HobbyHub"
+  },
+  challenge: "I am building full-stack MERN projects and enhancing my React and backend development skills"
+};
+
 
 
 
