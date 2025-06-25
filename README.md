@@ -1,5 +1,5 @@
 <!-- Banner -->
-const rakib = {
+```const rakib = {
   pronouns: "he" | "him",
   code: [HTML, CSS, TailwindCSS, JavaScript, React, Node, Express, MongoDB],
   tools: [Firebase, ReactRouter, DaisyUI, SweetAlert2, Axios, JWT, FramerMotion],
@@ -10,7 +10,7 @@ const rakib = {
     developer: "GoJoy, CareerCode, HobbyHub"
   },
   challenge: "I am building full-stack MERN projects focused on React and backend development"
-}
+}```##
 
 
 
