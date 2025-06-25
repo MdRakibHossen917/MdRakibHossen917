@@ -1,18 +1,10 @@
 <!-- Banner -->
-```javascript
-const rakib = {
-  pronouns: "he" | "him",
-  code: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
-  tools: ["Firebase", "React Router", "DaisyUI", "SweetAlert2", "Axios", "JWT", "Framer Motion"],
-  architecture: ["REST API", "JWT-based authentication", "Component-based architecture", "MVC pattern"],
-  techCommunities: {
-                       coorganizer: "Programming Hero",
-                        contributor: "GitHub Open Source",
-                        developer: "GoJoy | CareerCode | HobbyHub"
-                      },
-challenge: "I am building full-stack MERN projects and enhancing my React and backend development skills"
-}
-```
+ <!-- Banner -->
+<p align="center">
+  <img src="git-hub.jpeg" alt="Project Banner" width="100%" />
+</p>
+
+ 
 
 
 
