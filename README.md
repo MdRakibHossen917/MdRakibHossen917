@@ -2,10 +2,9 @@
 <p align="center">
   <img src="https://github.com/MdRakibHossen917/MdRakibHossen917/blob/main/git.jpeg?raw=true" 
        alt="Banner" 
-       width="1280" 
-       height="180" 
-       style="border-radius: 8px;" />
+       style="width: 1280px; height: 300px; object-fit: cover; border-radius: 8px;" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm Md Rakib Hossen</h1>
