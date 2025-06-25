@@ -12,7 +12,7 @@ const thai = {
                       },
 challenge: "I am building full-stack MERN projects and enhancing my React and backend development skills"
 }
-``` amar detail guulu diye kore deo
+```##
 
 
 
