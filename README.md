@@ -83,7 +83,7 @@ challenge: "I am building full-stack MERN projects and enhancing my React and ba
 
 ---
 ## Contact Me
-📬 Feel free to reach out or connect with me on [WhatsApp](https://wa.me/8801300971501)
+📬 Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/md-rakib-hossen-5b1aa3274/)
 
 
 You can also find me on:
