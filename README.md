@@ -1,6 +1,6 @@
 <!-- Banner -->
 ```javascript
-const thai = {
+const rakib = {
   pronouns: "he" | "him",
   code: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
   tools: ["Firebase", "React Router", "DaisyUI", "SweetAlert2", "Axios", "JWT", "Framer Motion"],
@@ -12,7 +12,7 @@ const thai = {
                       },
 challenge: "I am building full-stack MERN projects and enhancing my React and backend development skills"
 }
-```##
+```
 
 
 
