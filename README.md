@@ -1,9 +1,18 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/MdRakibHossen917/MdRakibHossen917/blob/main/git.jpeg?raw=true" 
-       alt="Banner" 
-       style="width: 1280px; height: 180px; object-fit: cover; border-radius: 8px;" />
-</p>
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 
 
