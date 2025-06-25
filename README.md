@@ -1,7 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/MdRakibHossen917/MdRakibHossen917/blob/main/git.jpeg" alt="Banner  width="100%" style="rounded" "/>
+  <img src="https://github.com/MdRakibHossen917/MdRakibHossen917/blob/main/git.jpeg?raw=true" 
+       alt="Banner" 
+       width="1280" 
+       height="300" 
+       style="border-radius: 8px;" />
 </p>
+
 
 <h1 align="center">Hi, I'm Md Rakib Hossen</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | CSE Graduate</h3>
