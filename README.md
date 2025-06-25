@@ -3,7 +3,7 @@
   <img src="https://github.com/MdRakibHossen917/MdRakibHossen917/blob/main/git.jpeg?raw=true" 
        alt="Banner" 
        width="1280" 
-       height="200" 
+       height="150" 
        style="border-radius: 8px;" />
 </p>
 
