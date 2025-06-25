@@ -46,7 +46,7 @@ challenge: "I am building full-stack MERN projects and enhancing my React and ba
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/md-rakib-hossen-5b1aa3274/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-rakib-hossen-5b1aa3274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
@@ -58,7 +58,7 @@ challenge: "I am building full-stack MERN projects and enhancing my React and ba
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://https://www.facebook.com/md.rakib.hossen.41751" target="_blank">
+  <a href="https://www.facebook.com/md.rakib.hossen.41751" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   
