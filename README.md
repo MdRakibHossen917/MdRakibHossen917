@@ -71,17 +71,22 @@ challenge: "I am building full-stack MERN projects and enhancing my React and ba
 
 ---
 
-## 📊 GitHub Stats
+## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdRakibHossen917&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MdRakibHossen917&theme=radical" height="180" />
-</p>
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRakibHossen917&layout=compact&theme=radical" height="150" />
-</p>
 
 ---
+## Contact
+Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/abufaysal002/)
+
+You can also find me on:
+
+- **Email**: mdrakibhossencse@gmail.com
+- **Linkedin**: [Click Here](https://www.linkedin.com/in/md-rakib-hossen-5b1aa3274/)
+- **Facebook** : [Click Here](https://www.facebook.com/md.rakib.hossen.41751)
+
 
 <p align="center">💻 Always eager to learn, build & collaborate!</p>
