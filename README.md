@@ -1,16 +1,18 @@
 <!-- Banner -->
-```const rakib = {
+```javascript
+const thai = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, TailwindCSS, JavaScript, React, Node, Express, MongoDB],
-  tools: [Firebase, ReactRouter, DaisyUI, SweetAlert2, Axios, JWT, FramerMotion],
-  architecture: ["REST API", "JWT-based auth", "component-based", "MVC pattern"],
+  code: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
+  tools: ["Firebase", "React Router", "DaisyUI", "SweetAlert2", "Axios", "JWT", "Framer Motion"],
+  architecture: ["REST API", "JWT-based authentication", "Component-based architecture", "MVC pattern"],
   techCommunities: {
-    learner: "Programming Hero",
-    contributor: "GitHub",
-    developer: "GoJoy, CareerCode, HobbyHub"
-  },
-  challenge: "I am building full-stack MERN projects focused on React and backend development"
-}```##
+                        learner: "Programming Hero",
+    contributor: "GitHub Open Source",
+    developer: "GoJoy | CareerCode | HobbyHub"
+                      },
+challenge: "I am building full-stack MERN projects and enhancing my React and backend development skills"
+}
+``` amar detail guulu diye kore deo
 
 
 
