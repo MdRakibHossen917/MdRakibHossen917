@@ -1,8 +1,10 @@
 <!-- Banner -->
  <!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="git-hub.jpeg" alt="Project Banner" width="100%" />
+  <img src="git-hub.jpeg" alt="Project Banner" style="width: 1280px; height: 250px;" />
 </p>
+
 
  
 
