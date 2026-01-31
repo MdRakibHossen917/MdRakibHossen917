@@ -11,7 +11,7 @@
 
 </div>
 
----
+ 
 
 ## About Me
 
@@ -21,7 +21,7 @@
 
 
 
----
+ 
 <h3>I never code without these</h3>
 <table>
   <tr>
@@ -81,8 +81,7 @@
 </table>
 
 
----
-
+ 
 
  
 
@@ -114,8 +113,8 @@
 
 
 
----
-## Github Stats
+ 
+ 
 
 ## 📊 GitHub Stats
 
@@ -128,5 +127,5 @@
 
 
 
----
+ 
 
