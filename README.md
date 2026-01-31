@@ -92,14 +92,20 @@
 
 ---
 
-## Github Stats
+
+
 
 ## 📊 GitHub Stats
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdRakibHossen917&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdRakibHossen917&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdRakibHossen917&theme=transparent&hide_border=true) |
-
+| 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdRakibHossen917&layout=compact&theme=radical&hide_border=true) 
+| 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdRakibHossen917&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) 
+| 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdRakibHossen917&theme=radical&hide_border=true) 
+|
 
 
 ---
