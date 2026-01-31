@@ -22,45 +22,69 @@
 
 
 ---
-<h3>I never code without these</h3> <table> <tr> <th>Skills Overview</th> <th>Technologies</th> </tr> <tr> <td><strong><strong>Frontend Technologies</strong></td> <td> <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" /> <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" /> <img src="https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss" /> <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux" /> </td> </tr> <tr> <td><strong>Back-End Development</strong></td> <td> <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" /> </td> </tr> <tr> <td><strong>Database</strong></td> <td> <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" /> </td> </tr> <tr> <td><strong>Tools & Platforms</strong></td> <td> <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" /> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" /> <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" /> <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" /> <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" /> <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" /> </td> </tr> </table>
+<h3>I never code without these</h3>
+<table>
+  <tr>
+    <th>Skills Overview</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Frontend Technologies</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
+      <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
+      <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss" />
+      <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+      <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" />
+      <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+      <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" />
+      <img src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux" />
+      <img src="https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=mui" />
+      <img src="https://img.shields.io/badge/-Chakra--UI-333333?style=flat&logo=chakra-ui" />
+      <img src="https://img.shields.io/badge/-Framer%20Motion-333333?style=flat&logo=framer" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Back-End Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
+      <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
+      <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" />
+      <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+      <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+      <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
+      <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
+      <img src="https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel" />
+      <img src="https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify" />
+      <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 
-## 🛠️ Technical Arsenal
-
-### 💎 Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
+ 
 
 
 ## 🌐 Connect With Me
