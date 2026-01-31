@@ -1,18 +1,25 @@
 <!-- Banner -->
  <!-- Banner -->
 <!-- Banner -->
-<p align="center">
-  <img src="git-hub.jpeg" alt="Project Banner" style="width: 1280px; height: 250px;" />
-</p>
+ 
+
+ 
 
 
  
 
 
+<div align="center">
+  
+# Hi there, I'm Md Rakib Hossen ⚡
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Building+Impactful+Software+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<h1 align="center">Hi, I'm Md Rakib Hossen</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | CSE Graduate</h3>
+[![Profile Views](https://komarev.com/ghpvc/?username=masum065&color=00D9FF&style=flat-square&label=Profile+Views)](https://github.com/masum065)
+[![GitHub followers](https://img.shields.io/github/followers/masum065?label=Followers&style=social)](https://github.com/masum065)
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masum065/)](https://www.linkedin.com/in/masum065/)
+
+</div>
 
 ---
 
