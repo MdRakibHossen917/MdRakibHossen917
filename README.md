@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-# Hi there, I'm Md Rakib Hossen ⚡
+# Hi there, I'm Md Rakib Hossen
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;React+%26+Next.js+Specialist+⚛️;Building+Impactful+Software+🌟" alt="Typing SVG" />
 
@@ -96,23 +96,45 @@
 - 🧑‍💻 **GitHub**: https://github.com/MdRakibHossen917
 - 📧 **Email**: mdrakibhossencse@gmail.com
 - 📘 **Facebook**: https://www.facebook.com/md.rakib.hossen.41751
-- 🌐 **Portfolio**: https://masum065.vercel.app
+- 🌐 **Portfolio**: https://my-portfolio-dd98e.web.app/
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdRakibHossen917&show_icons=true&theme=radical&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRakibHossen917&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdRakibHossen917&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRakibHossen917&layout=compact&theme=radical"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdRakibHossen917&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdRakibHossen917&theme=radical"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdRakibHossen917&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdRakibHossen917&theme=react-dark"/>
+</div>
+
+---
+
+## 📈 Contributions Overview (Classic View)
+
+<div align="center">
+  <img
+    src="https://github.com/lowlighter/metrics/blob/master/metrics.plugin.calendar.full.svg?raw=true&username=MdRakibHossen917"
+    alt="Contribution Calendar"
+  />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=MdRakibHossen917&theme=radical&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </div>
 
 ---
