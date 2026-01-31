@@ -129,15 +129,4 @@
 
 
 ---
-## Contact Me
-📬 Feel free to reach out to me or connect with me on  [Linkedin](https://www.linkedin.com/in/md-rakib-hossen-5b1aa3274/)
 
-
-You can also find me on:
-
-- **Email**: mdrakibhossencse@gmail.com
-- **Linkedin**: [Click Here](https://www.linkedin.com/in/md-rakib-hossen-5b1aa3274/)
-- **Facebook** : [Click Here](https://www.facebook.com/md.rakib.hossen.41751)
-
-
-<p align="center">💻 Always eager to learn, build & collaborate!</p>)
